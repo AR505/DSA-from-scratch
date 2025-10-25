@@ -37,8 +37,9 @@
 
 
 ---
-
-<a href="https://www.adamalston.com/">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=0A192F&icon_color=0078FF&bg_color=0,8EC5FC,E0C3FC&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=0A192F&icon_color=0078FF&bg_color=0,E0C3FC,8EC5FC&theme=graywhite" />
+<a href="https://github.com/AR505">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=AR505&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AR505&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
+
+![Amir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AR505&theme=tokyo-night&hide_border=true)
