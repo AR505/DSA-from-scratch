@@ -1,46 +1,73 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+[![](https://raw.githubusercontent.com/amirAR/amirAR/main/profile.gif)](https://github.com/amirAR)
+<!-- Custom animated banner or logo (Optional) -->
 
-### Languages
+# 👨‍💻 JetHub – Open Source Developer Profile
+
+Hi there! I'm **Amir (AR)** — a passionate **Python developer** and **open-source enthusiast**.  
+I love building smart, creative, and practical solutions that blend simplicity with power.  
+JetHub represents my personal brand as a developer — flexible, open, and always evolving.
+
+---
+
+### 🧠 Languages & Skills
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
-### Technologies
+---
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+### ⚙️ Frameworks & Tools
+
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
+![PyQt5](https://img.shields.io/badge/-PyQt5-000?&logo=Qt)
+![CustomTkinter](https://img.shields.io/badge/-CustomTkinter-000?&logo=python)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-### Full Stack Projects
+---
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
+### 🚀 Featured Projects
 
-### Cybersecurity Projects
+[![](https://img.shields.io/badge/-🧩%20Smart%20Business%20System-000)](https://github.com/amirAR/Smart-Business-System)
+[![](https://img.shields.io/badge/-🐍%20Python%20Utilities-000)](https://github.com/amirAR/Python-Utilities)
+[![](https://img.shields.io/badge/-🧠%20AI%20Experiments-000)](https://github.com/amirAR/AI-Experiments)
+[![](https://img.shields.io/badge/-💼%20JetHub%20Core-000)](https://github.com/amirAR/JetHub)
 
-[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
-[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/adamalston/SYN-Flood)
-[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/adamalston/SQL-Injection)
-[![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
-[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
+---
 
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+### 🧩 About Me
+
+- 🔥 Passionate about **Python**, **automation**, and **open-source**.
+- 💻 Skilled with multiple Python frameworks and GUI libraries.
+- ⚡ Exploring **AI**, **data analysis**, and **backend development**.
+- 🧠 Curious about system architecture and creative software design.
+- 💡 “AR” is my symbolic identity — representing **Ambition & Reality**.
+
+---
+
+### 📊 GitHub Stats
+
+<a href="https://github.com/amirAR">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=amirAR&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&bg_color=20,0d1117,1a1b27,2a2d3e"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirAR&layout=compact&langs_count=8&theme=dracula&bg_color=20,0d1117,1a1b27,2a2d3e"/>
+</a>
+
+---
+
+### ⚡ Activity Graph
+
+![Amir's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amirAR&theme=dracula&bg_color=0d1117&color=79ff97&line=ffb86c&point=bd93f9&area=true&hide_border=true)
+
+---
+
+### 🧠 Motto
+
+> “Code with clarity. Create with purpose.  
+> Leave a mark that speaks — not just compiles.”
+
+---
+
