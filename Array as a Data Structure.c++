@@ -1,6 +1,4 @@
 #include <iostream>
-#include <vector>
-#include <algorithm>
 using namespace std;
 
 class Array{
@@ -61,7 +59,7 @@ public:
 
 
 int main() {
-
+//Test
     int arrsize,ke;
     cout<<"inter the size of demo Array: ";
     cin>>arrsize;
